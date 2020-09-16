@@ -1,0 +1,89 @@
+
+body{
+    background-color: #f0f0f0;
+    font-family: Neutra Text, Roboto ,Verdana, Geneva, Tahoma, sans-serif;
+}
+#navigasi{
+    margin:0 auto;
+    background-color: white;
+    height:40px;
+    line-height:40px;
+    text-align: center;
+}
+#navigasi a{
+    text-decoration: none;
+    color:tomato;
+    margin-left:20px;
+    font-weight:bolder;
+}
+#badan{
+    max-width: 1080px;
+    border:0px solid;
+    background-color: rgb(255, 255, 255);
+    margin:0 auto;
+    overflow:scroll;
+}
+#header{
+    width:95%;
+    margin:0 auto;
+    padding:10px;
+    height:300px;
+    background-color: tomato;
+    text-align: center;
+    color:white;
+}
+#header img{
+    width:150px;
+    border-radius: 100px;
+    margin-top:45px;
+    text-align: center;
+}
+#header .nama{
+    color:white;
+    font-size: 24pt;
+    font-weight: bolder;
+}
+#data-diri{
+    width:95%;
+    margin:0 auto;
+    padding:10px;
+    height:300px;
+    text-align: center;
+}
+#data-diri .bagian-1 h2{
+    color:tomato;
+    font-weight: bold;
+    
+}
+#data-diri .bagian-1 p{
+    text-align: justify;
+    font-size: 10pt;
+    width:70%;
+    margin:0 auto;
+    line-height: 25px;
+    margin-bottom: 50px;
+}
+#footer{
+    text-align: center;
+    color:white;
+    background-color: tomato;
+    font-size: 10pt;
+    line-height: 30px;
+    height:30px;
+}
+#data-diri .bagian-2 h2{
+    color:tomato;
+    font-weight: bold;
+}
+#data-diri .bagian-2 table{
+    margin:0 auto;
+    text-align: center;
+    
+}
+#data-diri .bagian-2 table b{
+    font-size: 18pt;
+}
+.gambar-service{
+    width:15%;
+    text-align: center;
+}
